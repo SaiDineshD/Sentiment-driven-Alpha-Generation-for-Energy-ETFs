@@ -284,7 +284,15 @@ This project is licensed under the Creative Commons Zero v1.0 Universal License 
 **Data Attribution**: Financial news dataset sourced from [Brianferrell787/financial-news-multisource](https://huggingface.co/datasets/Brianferrell787/financial-news-multisource) (Hugging Face). The raw data is not included in this repository.
 
 ---
+## Authors
+
+- Atharva Mokashi
+- Adarsh Prabhudesai
+- Alina Hasan
+- Sai Dinesh Devineni
+
+---
 
 ## Contact
 
-For questions about methodology or implementation details, please open an issue or reach out via atharvamokashi01@gmail.com
+For questions about methodology or implementation details, please open an issue or reach out via atharvamokashi01@gmail.com, adarshprabhudesai09@gmail.com, saidevineni25@gmail.com, 1alinahasan@gmail.com
